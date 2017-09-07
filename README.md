@@ -1,2 +1,2 @@
 # GSnote
-Note for structual aspects in Geology
+Note for Geology
