@@ -12,14 +12,20 @@
 
 ## 海底擴張學說
 
-* 威爾遜循環、超大陸循環
-	[The Future of Supercontinents](http://academic.emporia.edu/aberjame/student/sherrill1/amasia.html)
+### 威爾遜循環、超大陸循環
 
-![](http://academic.emporia.edu/aberjame/student/sherrill1/wilson_cycle1.jpg)
+[The Future of Supercontinents](//academic.emporia.edu/aberjame/student/sherrill1/amasia.html)
+
+![](//i.imgur.com/6npM1lX.jpg)
+
+![](//csmgeo.csm.jmu.edu/geollab/Fichter/PlateTect/Images/wilsncircl.gif)
+
+*
+  
 
 ## 板塊構造學說
 
-![](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/volcanic-tectonics.png)
+![](//opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/volcanic-tectonics.png)
 
 * 張裂性 (Convergent Plate Boundary)
 
