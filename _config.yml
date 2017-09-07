@@ -1,3 +1,7 @@
 title: 地球科學相關筆記
 description: 整理與地球科學相關筆記 (僅供參考)
-theme: minima
+theme: jekyll-theme-cayman
+
+author:
+  name:       GSnote
+  url:        http://gsnote.github.io
