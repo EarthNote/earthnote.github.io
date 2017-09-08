@@ -14,12 +14,13 @@
 
 ### 威爾遜循環、超大陸循環
 
-[The Future of Supercontinents](//academic.emporia.edu/aberjame/student/sherrill1/amasia.html)
 
-* Other ref:
-  + https://en.wikipedia.org/wiki/Supercontinent_cycle
-  + http://nadm.gl.ntu.edu.tw/nadm/cht/class_detail.php?serial=155&serial_type_1=8&serial_type_2=4&serial_type_3=21
-  + http://1crankyteacher.blogspot.tw/2013/03/the-tectonic-supercycle.html
+* Reference:
+  + [The Future of Supercontinents](//academic.emporia.edu/aberjame/student/sherrill1/amasia.html)
+
+  + [Supercontinents - Wikipedia](//en.wikipedia.org/wiki/Supercontinent_cycle)
+  + [岩石-地質典藏館-臺大地質科學數位典藏博物館](//nadm.gl.ntu.edu.tw/nadm/cht/class_detail.php?serial=155&serial_type_1=8&serial_type_2=4&serial_type_3=21)
+  + [The Tectonic Supercycle](//1crankyteacher.blogspot.tw/2013/03/the-tectonic-supercycle.html)
 
 ![](//i.imgur.com/6npM1lX.jpg)
 
