@@ -1,4 +1,4 @@
-# 地球科學相關筆記
+# 地球筆記 Earth Note
 
 若本網頁內容連結有侵權疑慮，煩請親自來信至 sean.li.shin.ho＜ａt＞gmail.com 聯絡，會盡速修改或移除。
 
